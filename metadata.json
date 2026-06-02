@@ -1,0 +1,6 @@
+{
+  "name": "Offline File Sharing",
+  "description": "High-speed offline file sharing using Wi-Fi Direct, Bluetooth, and local hotspot connections with full transfer tracking and secure pairing support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
